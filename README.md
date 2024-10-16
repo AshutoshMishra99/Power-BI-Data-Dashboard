@@ -1,2 +1,3 @@
-# PowerBI_Projects
-Projects made in Microsoft Power BI
+# PowerBI_Data_Dashboard
+Project made using Microsoft Power BI
+
